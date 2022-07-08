@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019561087747",
+    "project_id": "unique-cart-6ac1d",
+    "storage_bucket": "unique-cart-6ac1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019561087747:android:f78cb9f44d9ab9d7aecf36",
+        "android_client_info": {
+          "package_name": "com.app.uniquecart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019561087747-kh1mq6o90msfsg4f4jmie4arh0eoe74j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.uniquecart",
+            "certificate_hash": "dd70717b89efb36b89223a4f6e445618b195c82e"
+          }
+        },
+        {
+          "client_id": "1019561087747-70nfa9staf09mlaaqe67fru928nhkbfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsBTrLzdH8fcwN7R05pDKQYjxIIfEOeq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019561087747-70nfa9staf09mlaaqe67fru928nhkbfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
