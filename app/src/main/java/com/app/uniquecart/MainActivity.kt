@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         btn.setOnClickListener {
             startActivity(Intent(this, R.layout.activity_dashboard_screen::class.java))
         }
+
     }
 }
